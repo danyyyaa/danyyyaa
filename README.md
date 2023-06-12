@@ -14,13 +14,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danyyyaa&show_icons=true&locale=en" alt="danyyyaa" /></p>
 
-- uses: Platane/snk@v2
-  with:
-    github_user_name: danyyyaa
-  outputs: |
-    - dist/github-snake.svg
-    - dist/github-snake-dark.svg?palette=github-dark
-    - dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-
-
-![Snake animation](https://raw.githubusercontent.com/danyyyaa/danyyyaa/output/dist/ocean.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
