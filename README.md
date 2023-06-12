@@ -14,7 +14,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danyyyaa&show_icons=true&locale=en" alt="danyyyaa" /></p>
 
-uses: Platane/snk@v2
+- uses: Platane/snk@v2
   with:
     github_user_name: danyyyaa
   outputs: |
