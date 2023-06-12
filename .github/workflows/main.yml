@@ -31,9 +31,7 @@ jobs:
       # Отправка содержимого build_dir в указанную ветку
       # Содержимое будет доступно по адресу https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> или как GitHub-страница
       - name: Отправка github-contribution-grid-snake.svg в выходную ветку
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: actions/upload-artifact@v2
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          name: Animation
+          path: dist/
