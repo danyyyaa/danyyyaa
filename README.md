@@ -7,6 +7,9 @@
 <p align="center">
 <a href="https://t.me/danissim00o" target="blank"><img align="center" src="https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram" height="35"  /></a>
 <a href="mailto:dan.zaikin.96@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" height="35"  /></a>
+<a href="https://www.linkedin.com/in/danil-zaikin-858190277/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="35"  /></a>
+
+  
 </p>
 
 
