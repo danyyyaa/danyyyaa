@@ -16,7 +16,7 @@
 <h3 align="center"> 🛠 Languages and Tools:</h3>
 <ul align="center">
   <li>Java</li>
-  <li>Spring(Core, Boot, Security, Data)</li>
+  <li>Spring(Core, Boot, MVC, Security, Data)</li>
   <li>PostgreSQL</li>
   <li>MongoDB</li>
   <li>RabbitMQ</li>
