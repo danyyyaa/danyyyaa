@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<h3 align="center"> 🛠 Languages and Tools:</h3>
+<h3 align="center"> 🛠 Stack:</h3>
 <ul align="center">
   <li>Java</li>
   <li>Spring(Core, Boot, MVC, Security, Data)</li>
